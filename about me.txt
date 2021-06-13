@@ -9,6 +9,7 @@
 <center><big><h1 style="color:rgb(153, 51, 153);">About me</h1></center>
 <center><small><h2 style="color:rgb(153, 51, 0);">Little sharing about myself!</h2></center>
 <br><center>
+<a href="index.html"></a>
 <a href="home.html"><img src="home.png"></a>
 <a href="about me.html"><img src="about me.png"></a>
 <a href="education.html"><img src="my education.png"></a>

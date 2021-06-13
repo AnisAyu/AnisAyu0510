@@ -4,7 +4,7 @@
 	<title>Personal Website-Individual Assignment</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="website.css">
+	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
 
@@ -15,6 +15,7 @@
 </br>
 
 <br><center>
+<a href="index.html"></a>
 <a href="home.html"><img src="home.png"></a>
 <a href="about me.html"><img src="about me.png"></a>
 <a href="my education.html"><img src="my education.png"></a>

@@ -11,6 +11,7 @@
 <center><small><h2 style="color:rgb(153, 51, 0);">I enjoyed all this experiences very well!</h2></center>
 <br>
 <br><center>
+<a href="index.html"></a>
 <a href="home.html"><img src="home.png"></a>
 <a href="about me.html"><img src="about me.png"></a>
 <a href="education.html"><img src="my education.png"></a>
