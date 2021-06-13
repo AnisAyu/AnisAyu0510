@@ -11,7 +11,7 @@
 <br>
 <center><big><h1 style="color:rgb(255, 0, 102);">ENJOY 	MY AMAZING 			JOURNEY</h1></center>
 <center><h2 style="color:rgb(102, 0, 51);"><small>"Be brave with your 		faith❤️"</h2></small></center>
-<body background="D:\IMD311\INDV ASS\wallpaper.jpg">
+<body background="wallpaper.jpg">
 </br>
 
 <br><center>

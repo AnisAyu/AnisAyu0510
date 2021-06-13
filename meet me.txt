@@ -9,7 +9,7 @@
 <br>
 <center><big><h1 style="color:rgb(153, 51, 153);">Want to meet me?</h1></center>
 <center><small><h2 style="color:rgb(153, 51, 0);">Just click it.</h2></center>
-<body background="D:\IMD311\INDV ASS\wallpaper.jpg">
+<body background="wallpaper.jpg">
 </br>
 <br><center>
 <a href="index.html"></a>

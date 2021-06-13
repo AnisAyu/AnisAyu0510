@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="experience.css">
 </head>
-<body background="D:\IMD311\INDV ASS\wallpaper.jpg">
+<body background="wallpaper.jpg">
 <br>
 <center><big><h1 style="color:rgb(153, 51, 153);">Precious experience ever</h1></center>
 <center><small><h2 style="color:rgb(153, 51, 0);">I enjoyed all this experiences very well!</h2></center>
