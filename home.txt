@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Personal Website-Individual Assignment</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="home.css">
+</head>
+<body>
+<center><big><h1 style="color:rgb(255, 0, 102);">ENJOY MY AMAZING JOURNEY</h1></center>
+<center><h2 style="color:rgb(153, 51, 102);"><small>"Be brave with your faith❤️"</h2></small></center>
+<body background="D:\IMD311\INDV ASS\wallpaper.jpg">
+<br>
+<embed src="latenight song.mp3" alt="latenight song" autoplay="true" hidden="true" loop="true"></embed>
+<br>
+<br><center>
+<a href="home.html"><img src="home.png"></a>
+<a href="about me.html"><img src="about me.png"></a>
+<a href="education.html"><img src="my education.png"></a>
+<a href="my family.html"><img src="my family.png"></a>
+<a href="my friends.html"><img src="my friends.png"></a>
+<a href="experience.html"><img src="experience.png"></a>
+<a href="book gallery.html"><img src="book gallery.png"></a>
+<a href="meet me.html"><img src="meet me.png"></a>
+</br><center>
+<br>
+<br>
+<img src="picture.jpg" alt="picture" width="30%" height="30%" align="middle"></a>
+<br>
+<br>
+<table border="1" width="60%" align="center" valign="middle" bgcolor="grey">
+  <tr>
+    <td>I'm Nor Anis Ayu binti Mohd Nazri from KIM1204C want to give special thanks to my lecturer for subject Introduction to Web Content Management & Design (IMD311), Encik Mohd Firdaus bin Mohd Helmi. Thanks for give me chance to finish up this individual assignment very well and always guide me whenever I need it. For me this task need high effort to complete it perfectly and fully the guideline requirement. Plus, all the knowledge about this subject were learned via online only without attend physical class. It affected from pandemic Covid-19 that caused my friends and me continue our last semester with Online Distance Learning (OLD). But, that situation never broke my ambition to Graduate On Time (GOT).
+My lecturer, Sir Firdaus never forget to educate me in be panctual person. It is because he never forget to remind my friends and me with the due date for this assignment. So, it can push me up to start this assignment and avoid me from late submission. He also understand student condition especially during Movement Control Order (MCO). Lastly, thanks to my family because always give me moral support and some space during accomplish this task very well. Not forget my friends that give too much help especially in give me understanding about coding and how to apply it in notepad.</td>
+
+</body>
+</hmtl>
+
+
+
+
+
+

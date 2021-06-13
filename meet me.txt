@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>Personal Website-Individual Assignment</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="meet me.css">
+</head>
+<body>
+<br>
+<center><big><h1 style="color:rgb(153, 51, 153);">Want to meet me?</h1></center>
+<center><small><h2 style="color:rgb(153, 51, 0);">Just click it.</h2></center>
+<body background="D:\IMD311\INDV ASS\wallpaper.jpg">
+</br>
+<br><center>
+<a href="home.html"><img src="home.png"></a>
+<a href="about me.html"><img src="about me.png"></a>
+<a href="education.html"><img src="my education.png"></a>
+<a href="my family.html"><img src="my family.png"></a>
+<a href="my friends.html"><img src="my friends.png"></a>
+<a href="experience.html"><img src="experience.png"></a>
+<a href="book gallery.html"><img src="book gallery.png"></a>
+<a href="meet me.html"><img src="meet me.png"></a>
+</br></center>
+<br>
+<br>
+<br><br>
+<center>
+<a href="https://www.instagram.com/kamojihujoo_/">
+<img src="instagram.png" alt="instagram" style="width:12%"></a>
+
+<a href="https://www.facebook.com/anis.ayu.967">
+<img src="facebook.png" alt="facebook" style="width:15%"></a>
+<br>
+
+</center>
+<center><h3 style="color:rgb(0, 0, 102);">Thanks for visting my account of social media!</h3></center>
+
+</body>
+</hmtl>

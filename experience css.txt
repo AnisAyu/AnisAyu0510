@@ -1,0 +1,53 @@
+*
+body
+{
+	background: url(D:\IMD311\INDV ASS\wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: auto;
+}
+
+h1{
+	font-family: Lucida Handwriting;
+	letter-spacing: 5px;
+}
+h2{
+	font-family: Papyrus;
+	letter-spacing: 2px;
+}
+
+h3{
+	font-family: Copperplate;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+h4{
+	font-family: Copperplate;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+h5{
+	font-family: Copperplate;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+h6{
+	font-family: Copperplate;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+p{
+	font-size:15px;
+	font-style: oblique;
+
+}
+
+img {
+  border-radius: 10px;
+}
+
+

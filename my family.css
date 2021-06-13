@@ -1,0 +1,43 @@
+*
+body
+{
+	background: url(D:\IMD311\INDV ASS\wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: auto;
+}
+
+h1{
+	font-family: Lucida Handwriting;
+	letter-spacing: 5px;
+}
+
+h2{
+	font-family: Papyrus;
+	letter-spacing: 2px;
+}
+
+h3{
+	font-family: Georgia;
+	letter-spacing: 5px;
+	font-size: 30px;
+	text-decoration: underline;
+
+th, td{
+	padding: 15px;
+	text-align: center;
+	font-family: Garamond;
+	p.inset {border-style: inset;}
+	
+}
+
+div{
+	p.groove {outline-style: groove;}
+}
+
+#borderimg {
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(family.jpg) 30 round;
+}
+

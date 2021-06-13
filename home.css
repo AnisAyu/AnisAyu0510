@@ -1,0 +1,33 @@
+*
+body
+{
+	background: url(D:\IMD311\INDV ASS\wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: auto;
+}
+
+h1{
+	font-family: Lucida Handwriting;
+	letter-spacing: 5px;
+}
+h2{
+	font-family: Papyrus;
+	letter-spacing: 2px;
+}
+
+#borderimg{
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(picture.jpg) 30 stretch;
+}
+
+table{
+	border: 1px solid black;
+	font-family: Monaco;
+	text-align: justify;
+	padding: 20px;
+	background-color: lightgrey;
+	letter-spacing: 2px;
+}
+	
